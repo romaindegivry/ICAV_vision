@@ -1,0 +1,6 @@
+Dependency
+
+- imageio - for loading and saving images
+- opencv - for thresholding - can potentially replace skimage library too
+- skimage - for hough transform 
+- matplotlib - for basic plotting

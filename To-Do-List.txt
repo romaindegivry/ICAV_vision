@@ -1,0 +1,5 @@
+Current live feed works at 2 Hz.
+
+[] Find better constraints to enforce square detection.
+- maybe corner detection algorithm
+
